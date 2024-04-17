@@ -1,4 +1,4 @@
-### Oi eu sou o Danilo Polesi, tecnico em manutenção de computadores e estudante de programação sistemas!
+### 👋Oi eu sou o Danilo Polesi, tecnico em manutenção de computadores e estudante de programação sistemas!💻
 
 - 🔭 I’m currently working on computer maintenance technician
 - 🌱 I am currently studying systems development technician and Microsoft PowerBI for Business Intelligent and Data Science<hr>
