@@ -1,5 +1,5 @@
 ### 👋Oi eu sou o Danilo Polesi 
-💻Técnico em manutenção de computadores e estudante de programação sistemas;
+💻Técnico em manutenção de computadores e estudante de programação de sistemas;
 
 - 🔍 I’m currently working on computer maintenance technician
 - 📚 I am currently studying systems development technician and Microsoft PowerBI for Business Intelligent and Data Science
