@@ -23,6 +23,7 @@
   ##
  
 <div> 
+  
   <a href="https://www.youtube.com/@danilopolesi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/danilopolesi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/psylokii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
@@ -30,11 +31,10 @@
   <a href = "mailto:danilopolesk8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   <a href="https://chat.whatsapp.com/D6DtSSCQub8JmrHMDkPwc1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
-  
+  <img allign="right" alt="DanPol" src="https://lh3.googleusercontent.com/pw/AP1GczMgRE8Ev17cZdmlN5RSCCGD8k7JjyJe4zkzktNgCDZVk33HunUf8s3sQNjr3naOQkujrsljSiFbGYYx0xml-X5N2IRDQI2xaGGBMO_F45F3yUy4_4d1VLFbVTeMZmJF3uogsrQKfwBxoSMwG9lN1JFinQ=w38-h27-s-no-gm?authuser=0">
   
 </div>
-<img allign="right" alt="DanPol" src="https://lh3.googleusercontent.com/pw/AP1GczOFq6j_GPGg0EjqHGPx_VgzT8UJ9Gfba_W_WVsh4C7SiUWUGGztH-JYhzFPG3RGnD8hnYlL3Oy3cf8USwmp7COf7Fz6aoQdqpiqmTCYPLA-VuZUzdx2MJ2pgzyFw7e3JZqfmOMRvDsrsHACtwOgMBhipQ=w220-h70-s-no-gm?authuser=0">
+
 
 <!--
 **danilo-polesi/danilo-polesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
