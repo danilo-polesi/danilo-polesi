@@ -25,15 +25,23 @@
   <img allign="right" alt="DanPol" src="https://lh3.googleusercontent.com/pw/AP1GczMgRE8Ev17cZdmlN5RSCCGD8k7JjyJe4zkzktNgCDZVk33HunUf8s3sQNjr3naOQkujrsljSiFbGYYx0xml-X5N2IRDQI2xaGGBMO_F45F3yUy4_4d1VLFbVTeMZmJF3uogsrQKfwBxoSMwG9lN1JFinQ=w38-h27-s-no-gm?authuser=0">
 </div>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danilo-polesi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=danilo-polesi&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-polesi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=danilo-polesi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=danilo-polesi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-polesi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danilo-polesi&theme=matrix&no-frame=false&no-bg=true&margin-w=4) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danilo-polesi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=danilo-polesi&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=BGELGGH4HANMG) 
+
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
