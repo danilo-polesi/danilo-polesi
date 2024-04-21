@@ -1,5 +1,5 @@
-### 👋Oi eu sou o Danilo Polesi 
-💻Técnico em manutenção de computadores e estudante de programação de sistemas;
+###  
+<img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczPqLL8al8Dgps8la18Ns7XRH6rkvLWxwc2OfIsCajQj9GNs_dorqB-L2UpX-K26Ul-jNFV5OqMxTNeJf5XaKku-8TtuMosmwF9nNvYni73rOCu13ZUZeL48CPprD2CLNT_06qqiwIT38HClPvt0h-VUbg=w48-h45-s-no-gm?authuser=0"><b>Danilo Polesi<br>Técnico em manutenção de computadores e estudante de programação de sistemas;
 
 - 🔍 I’m currently working on computer maintenance technician
 - 📚 I am currently studying systems development technician and Microsoft PowerBI for Business Intelligent and Data Science
