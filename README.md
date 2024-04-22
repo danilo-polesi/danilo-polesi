@@ -1,4 +1,4 @@
-###  
+###
 <img width="25" heigth="25" src="https://lh3.googleusercontent.com/pw/AP1GczPASNyAdIR7sssWdNZ6GPhWFrQ1SjovzlzeNeIGum8T_PBGY_jeYQPz4onWJ5pRRvaIQBoJL5A6kLeMs-jSnrPYb4UYUwRe6zBNWMCKvF7D-tuOwF8SAU02zyJmuu3OPA82PttP8PyIhEKSKaLibpzS1g=w125-h115-s-no-gm?authuser=0"><b> Danilo Polesi<br>Técnico em informática, técnico em manutenção de computadores e estudante de programação de sistemas;</b>
 
 - <img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0"> I’m currently working on computer maintenance technician
@@ -6,12 +6,12 @@
 
 <div style="display: inline_block"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arduino,c,cs,js,html,css,php,mysql,ps,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,linux,arduino,anaconda,visualstudio,vscode,wordpress,ps,windows)](https://skillicons.dev)
  
   
 </div>
   
-  ##
+##
  
 <div>   
   <a href="https://www.youtube.com/@danilopolesi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
