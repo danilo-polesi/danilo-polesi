@@ -44,7 +44,11 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=BGELGGH4HANMG) 
 <hr>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/danilo-polesi/count.svg"></p>
-<p align="center"><b>Visitors</b></b></p>
+<p align="center"><b>Visitors</b></p></br>
+
+![Snake animation](https://github.com/danilo-polesi/blob/output/github-contribuition-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=danilo-polesi&theme=react)](https://github.com/danilo-polesi)
 
 
 
