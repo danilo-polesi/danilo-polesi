@@ -46,9 +46,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/danilo-polesi/count.svg"></p>
 <p align="center"><b>Visitors</b></p></br>
 
-![Snake animation](https://github.com/danilo-polesi/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/danilo-polesi/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=danilo-polesi&theme=react)](https://github.com/danilo-polesi)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=danilo-polesi&repo=danilo-polesi&theme=react)](https://github.com/danilo-polesi)
 
 
 
