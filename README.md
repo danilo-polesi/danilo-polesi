@@ -5,9 +5,9 @@
 <img width="20" heigth="20" src="https://lh3.googleusercontent.com/pw/AP1GczPqLL8al8Dgps8la18Ns7XRH6rkvLWxwc2OfIsCajQj9GNs_dorqB-L2UpX-K26Ul-jNFV5OqMxTNeJf5XaKku-8TtuMosmwF9nNvYni73rOCu13ZUZeL48CPprD2CLNT_06qqiwIT38HClPvt0h-VUbg=w48-h45-s-no-gm?authuser=0"> Técnico em Manutenção de Computadores<br>
 <img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0"> Técnico em Desenvolvimento de Sistemas (Cursando 3º Módulo)</b><br><br>
 
-- I am currently working as a trainee programmer
+<img width="25" heigth="25" src="https://lh3.googleusercontent.com/pw/AP1GczMtTPfqTtFMvQXpfRIPBOqS8BFZEAQLVpFCYtrCyls73QOaTmM9xfLdLYA2RkMO7OQwYAdPod53WjCY1oIb38lDFqy3NfAEyRrdR4v-0lWJNZGd8wHypiSpfktPduem4-DJNcRqGRJYBPXecAniQvw6Pg=w54-h54-s-no-gm?authuser=0"> - I am currently working as a trainee programmer
 
-- I am currently studying the third module of the technical course in systems development at ETEC Dr. Adail Nunes Da Silva
+<img width="25" heigth="25" src="https://lh3.googleusercontent.com/pw/AP1GczMtTPfqTtFMvQXpfRIPBOqS8BFZEAQLVpFCYtrCyls73QOaTmM9xfLdLYA2RkMO7OQwYAdPod53WjCY1oIb38lDFqy3NfAEyRrdR4v-0lWJNZGd8wHypiSpfktPduem4-DJNcRqGRJYBPXecAniQvw6Pg=w54-h54-s-no-gm?authuser=0"> - I am currently studying the third module of the technical course in systems development at ETEC Dr. Adail Nunes Da Silva
   
 <div style="display: inline_block"><br>
 
