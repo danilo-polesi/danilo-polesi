@@ -18,7 +18,10 @@
   
 ##
  
-<div>   
+<div>
+
+  <img allign="right" alt="DanPol" src="https://lh3.googleusercontent.com/pw/AP1GczMgRE8Ev17cZdmlN5RSCCGD8k7JjyJe4zkzktNgCDZVk33HunUf8s3sQNjr3naOQkujrsljSiFbGYYx0xml-X5N2IRDQI2xaGGBMO_F45F3yUy4_4d1VLFbVTeMZmJF3uogsrQKfwBxoSMwG9lN1JFinQ=w38-h27-s-no-gm?authuser=0">
+  
   <a href="https://www.youtube.com/@danilopolesi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/danilopolesi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/psylokii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
