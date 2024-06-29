@@ -1,14 +1,14 @@
 ###
-<img width="25" heigth="25" src="https://lh3.googleusercontent.com/pw/AP1GczPASNyAdIR7sssWdNZ6GPhWFrQ1SjovzlzeNeIGum8T_PBGY_jeYQPz4onWJ5pRRvaIQBoJL5A6kLeMs-jSnrPYb4UYUwRe6zBNWMCKvF7D-tuOwF8SAU02zyJmuu3OPA82PttP8PyIhEKSKaLibpzS1g=w125-h115-s-no-gm?authuser=0"><b> Danilo Rodrigo Polesi<br><br>
+<img width="25" heigth="25" src="https://lh3.googleusercontent.com/pw/AP1GczOxVKjbk6Qqkfp23c-LGQ9EpIBL781IO26iHhsGyTCQwBH53bQnxMJFOOjlsfoJOaIyoP92KeJb3xiCXYlMdUWWbbGjBewo8eFg1F592V3YtRXp4aQPJJwPd9r2Mi-B6bQpGutdbH9roxvdb2saiZRiUw=w113-h113-s-no-gm?authuser=0"><b> Danilo Rodrigo Polesi<br><br>
 <img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0"> Programador Trainee<br>
 <img width="20" heigth="20" src="https://lh3.googleusercontent.com/pw/AP1GczPqLL8al8Dgps8la18Ns7XRH6rkvLWxwc2OfIsCajQj9GNs_dorqB-L2UpX-K26Ul-jNFV5OqMxTNeJf5XaKku-8TtuMosmwF9nNvYni73rOCu13ZUZeL48CPprD2CLNT_06qqiwIT38HClPvt0h-VUbg=w48-h45-s-no-gm?authuser=0"> Técnico em Informática<br>
 <img width="20" heigth="20" src="https://lh3.googleusercontent.com/pw/AP1GczPqLL8al8Dgps8la18Ns7XRH6rkvLWxwc2OfIsCajQj9GNs_dorqB-L2UpX-K26Ul-jNFV5OqMxTNeJf5XaKku-8TtuMosmwF9nNvYni73rOCu13ZUZeL48CPprD2CLNT_06qqiwIT38HClPvt0h-VUbg=w48-h45-s-no-gm?authuser=0"> Técnico em Manutenção de Computadores<br>
 <img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0"> Técnico em Desenvolvimento de Sistemas (Cursando 3º Módulo)</b><br><br>
 
-- I’m currently working on computer maintenance technician
+- I am currently working as a trainee programmer
 
-- I am currently studying systems development technician and Microsoft PowerBI for Business Intelligent and Data Science
-
+- I am currently studying the third module of the technical course in systems development at ETEC Dr. Adail Nunes Da Silva
+  
 <div style="display: inline_block"><br>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,vscode,py,windows)](https://skillicons.dev)
