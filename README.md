@@ -10,7 +10,13 @@ Técnico em Desenvolvimento de Sistemas<br>
 
 <div style="display: inline_block"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,vscode,py,windows)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,vscode,py,windows)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,py,windows)](https://skillicons.dev)
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPSZZ7eRphYs2LO2Z3bK1Exq80asvzlA8NgqeB6gU4Dx9T3QAV-x4wEj6gvNdOgY9k3bMohWQl6bEB5pd-8J1bJij4XGTuEgPmdhP-2f_d_oCkDqtpJTnKzlS0LPPX8megrK4ZKfSaJFmT-YR6MwOs4jQ=w512-h512-s-no-gm?authuser=0"
+     alt="Delphi"
+     width="48"
+     style="vertical-align: middle;" />
+
  
   
 </div>
