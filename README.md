@@ -1,6 +1,6 @@
 ###
 <strong>Danilo Rodrigo Polesi</strong><br>
-Programador Delphi Mobile / Web <img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0"><br>
+Desenvolvedor Delphi Mobile e Web | APIs REST <img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0"><br>
 
 <strong>Formação</strong><br>
 Técnico em Informática<br>
