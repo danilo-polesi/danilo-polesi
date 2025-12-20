@@ -1,6 +1,6 @@
 ###
-<img width="20" heigth="20" src="https://lh3.googleusercontent.com/pw/AP1GczPqLL8al8Dgps8la18Ns7XRH6rkvLWxwc2OfIsCajQj9GNs_dorqB-L2UpX-K26Ul-jNFV5OqMxTNeJf5XaKku-8TtuMosmwF9nNvYni73rOCu13ZUZeL48CPprD2CLNT_06qqiwIT38HClPvt0h-VUbg=w48-h45-s-no-gm?authuser=0">Danilo Rodrigo Polesi<br>
-<img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0">Programador Delphi Mobile / Web<br>
+<strong>Danilo Rodrigo Polesi</strong><br>
+Programador Delphi Mobile / Web <img width="15" heigth="15" src="https://lh3.googleusercontent.com/pw/AP1GczNMDvMFgjzUUnRbEP6U9zXewcTd2HvHmcc5GJdzziEGw5496y2etLlPZY7y7QrTEeDuXEiFgAc4pTypDtN76D7VSDkkgU03h_Pj6cW89RLDwvyGguW5OPcCfdkjZ2cp5MtbDXTTsW4CxCIsmBfdVhUjuQ=w16-h16-s-no-gm?authuser=0"><br>
 
 <strong>Formação</strong><br>
 Técnico em Informática<br>
