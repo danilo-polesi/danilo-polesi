@@ -13,7 +13,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas(Cursando o primeiro semestr
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,vscode,py,windows)](https://skillicons.dev) -->
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,py,windows)](https://skillicons.dev)
-<img src="https://photos.google.com/share/AF1QipNdLsS9xShjUlvE5AvOsyVh5myGdlHOhcmv-T-DfIxJOtx2QrYScau7Qta1tEktDQ/photo/AF1QipOarlKFi-jtVxEp8VQylXFUrEsBN8uRq5dau38G?key=Y1lwcl9odW5ob0RPdEFqQkpWS2oxRDRpV2o3c0Vn"
+<img src="[https://photos.google.com/share/AF1QipNdLsS9xShjUlvE5AvOsyVh5myGdlHOhcmv-T-DfIxJOtx2QrYScau7Qta1tEktDQ/photo/AF1QipOarlKFi-jtVxEp8VQylXFUrEsBN8uRq5dau38G?key=Y1lwcl9odW5ob0RPdEFqQkpWS2oxRDRpV2o3c0Vn](https://lh3.googleusercontent.com/pw/AP1GczMFRh-aNVGy7g7-9GQP4Kv6mgTrtC6X4My8utbrkD4eyeVMmWd0LgvXc1p4OoJ1RSC7xrXv12O-9YcTUJFCqtLF0k2ajX10_VQ38P22z7tcYe-2Hewc8xpmX-dsGp3c4Mt-u_nUriQzigEiwTv2817blA=w512-h512-s-no-gm?authuser=0)"
      alt="Delphi"
      width="48"
      style="vertical-align: middle;" />
