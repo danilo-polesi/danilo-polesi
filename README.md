@@ -17,22 +17,3 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas(Cursando o primeiro semestr
      width="48"
      style="vertical-align: middle;" />  
 </div>
-  
-##
- 
-<div>
-  
-  <a href = "mailto:sktdanpol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5516981009144" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-</div>
-
-<hr>
-
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=BGELGGH4HANMG) 
-<hr>
-
-
-<!-- ![snake gif](https://github.com/danilo-polesi/danilo-polesi/blob/output/github-contribution-grid-snake-dark.svg) -->
