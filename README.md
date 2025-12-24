@@ -12,7 +12,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas(Cursando o primeiro semestr
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,vscode,py,windows)](https://skillicons.dev) -->
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,html,css,php,mysql,firebase,linux,arduino,anaconda,visualstudio,py,windows)](https://skillicons.dev)
-<img src="assets/delphi.png"
+<img src=".github/workflows/delphi.png"
      alt="Delphi"
      width="48"
      style="vertical-align: middle;" />  
