@@ -17,3 +17,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas(Cursando o primeiro semestr
      width="48"
      style="vertical-align: middle;" />  
 </div>
+
+<div style="display: inline_block"><br>
+<a href="https://danilorodrigopolesi.com/">https://danilorodrigopolesi.com</a>
