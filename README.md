@@ -6,7 +6,7 @@ Desenvolvedor Delphi Mobile e Web | APIs REST <img width="15" heigth="15" src="h
 Técnico em Informática<br>
 Técnico em Manutenção de Computadores<br>
 Técnico em Desenvolvimento de Sistemas<br>
-Tecnólogo em Análise e Desenvolvimento de Sistemas(Cursando o primeiro semestre)<br>
+<!--Tecnólogo em Análise e Desenvolvimento de Sistemas(Cursando o primeiro semestre)<br>-->
 
 <div style="display: inline_block"><br>
 
